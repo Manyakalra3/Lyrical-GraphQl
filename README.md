@@ -1,5 +1,5 @@
 # Lyrical-GraphQL
-## Lyrical-Grapql is a Graphql api with a ell defined schema and mutations for adding/deleting/updating mutations for songlyroics/song name/song details.
+## Lyrical-Grapql is a Graphql api with a well defined schema and mutations for adding/deleting/updating mutations for songlyroics/song name/song details.
 Server runs on GraphQL playground.
 ## Features
 * Adding  a song to database directly
